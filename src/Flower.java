@@ -46,7 +46,6 @@ public class Flower {
             public void setLifeSpan ( int lifeSpan){
                 this.lifeSpan = lifeSpan > 0 ? lifeSpan : 3;
             }
-
             public String toString () {
                 return "Flower{" +
                         "title=" + title + "/" +

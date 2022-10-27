@@ -17,7 +17,7 @@ public class HomeworkOOP2 {
         Bouquet bouquet = new Bouquet( new Flower[] {rose,rose, pion, hupsophila, chryzantema);
         System.out.println("Bouquet cost:" + bouquet.getCost());
         System.out.println("Bouquet lifespan:" + bouquet.getLifeSpan());
-}
+
     }
     Car car = new (brand: "Кia", model:"Sportage",
     engineVolume: 2.4f, color: "Red",

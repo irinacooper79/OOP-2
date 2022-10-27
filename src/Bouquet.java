@@ -15,7 +15,6 @@ public class Bouquet {
         }
         return sum + sum * 0.1f;
     }
-
     public int getLifeSpan(){
         int minLifespan = Integer.MAX_VALUE;
         for(Flower flower : flowers){

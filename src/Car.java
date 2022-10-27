@@ -28,7 +28,6 @@ public class Car {
     private final Key;
 
     private final Insurance;
-
     public Car ( String brand, String model, float engineVolume, String color, int manufactureCountry,
                  String manufactureCountry,String gearBox, String bodyType, String regNumber, int placesCount,
                  boolean winterTires, Key,key, Insurance insurance){
